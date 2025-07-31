@@ -6,17 +6,18 @@ import threading
 from datetime import datetime
 
 # --- Configuration ---
-RUN_TOURNAMENT = True
+RUN_TOURNAMENT = False
+SCRIPT_DIR = os.path.dirname(os.path.abspath(__file__))
 GAMES_PER_MATCHUP = 1
-SEARCH_TIME_MS = 3000
+SEARCH_TIME_MS = 250
 LOG_LEVEL = "ERROR"
 RESULTS_FILE = "tournament_results.csv"
 TEAM_A_NAME = "gen3/ou/mybandmence"
 TEAM_B_NAME = "gen3/ou/sample"
 # --- Paths ---
 TEAMS_SUBDIRECTORY = "teams/teams/gen3/ou"
-PATH_TO_VERSION_A = "C:/Users/uscda/Desktop/foultest/foul-play"
-PATH_TO_VERSION_B = "C:/Users/uscda/Desktop/foultest/foul-play-restricted_sampling"
+PATH_TO_VERSION_A = os.path.join(SCRIPT_DIR, "foul-play")
+PATH_TO_VERSION_B = os.path.join(SCRIPT_DIR, "foul-play-restricted_sampling")
 ENV_A_PATH = "envA"
 ENV_B_PATH = "envB"
 
