@@ -1,0 +1,1060 @@
+
+Error [ERR_HTTP_HEADERS_SENT]: Cannot write headers after they are sent to the client
+    at ServerResponse.writeHead (node:_http_server:351:11)
+    at Server.finish (C:\Users\uscda\Desktop\showdown bot\pokemon-showdown\node_modules\node-static\lib\node-static.js:117:19)
+    at C:\Users\uscda\Desktop\showdown bot\pokemon-showdown\node_modules\node-static\lib\node-static.js:94:18
+    at C:\Users\uscda\Desktop\showdown bot\pokemon-showdown\node_modules\node-static\lib\node-static.js:337:13
+    at streamFile (C:\Users\uscda\Desktop\showdown bot\pokemon-showdown\node_modules\node-static\lib\node-static.js:382:13)
+    at ReadStream.<anonymous> (C:\Users\uscda\Desktop\showdown bot\pokemon-showdown\node_modules\node-static\lib\node-static.js:375:17)
+    at ReadStream.emit (node:events:518:28)
+    at ReadStream.emit (node:domain:489:12)
+    at emitCloseNT (node:internal/streams/destroy:148:10)
+    at process.processTicksAndRejections (node:internal/process/task_queues:89:21)
+
+Error [ERR_HTTP_HEADERS_SENT]: Cannot write headers after they are sent to the client
+    at ServerResponse.writeHead (node:_http_server:351:11)
+    at Server.finish (C:\Users\uscda\Desktop\showdown bot\pokemon-showdown\node_modules\node-static\lib\node-static.js:117:19)
+    at C:\Users\uscda\Desktop\showdown bot\pokemon-showdown\node_modules\node-static\lib\node-static.js:94:18
+    at C:\Users\uscda\Desktop\showdown bot\pokemon-showdown\node_modules\node-static\lib\node-static.js:337:13
+    at streamFile (C:\Users\uscda\Desktop\showdown bot\pokemon-showdown\node_modules\node-static\lib\node-static.js:382:13)
+    at ReadStream.<anonymous> (C:\Users\uscda\Desktop\showdown bot\pokemon-showdown\node_modules\node-static\lib\node-static.js:375:17)
+    at ReadStream.emit (node:events:518:28)
+    at ReadStream.emit (node:domain:489:12)
+    at emitCloseNT (node:internal/streams/destroy:148:10)
+    at process.processTicksAndRejections (node:internal/process/task_queues:89:21)
+
+SyntaxError: Unexpected token '<', "<br />
+<b>"... is not valid JSON
+    at JSON.parse (<anonymous>)
+    at getLadderTop (C:\Users\uscda\Desktop\showdown bot\pokemon-showdown\server\chat-plugins\seasons.ts:148:22)
+    at processTicksAndRejections (node:internal/process/task_queues:105:5)
+    at updateBadgeholders (C:\Users\uscda\Desktop\showdown bot\pokemon-showdown\server\chat-plugins\seasons.ts:164:20)
+
+SyntaxError: Unexpected token '<', "<br />
+<b>"... is not valid JSON
+    at JSON.parse (<anonymous>)
+    at getLadderTop (C:\Users\uscda\Desktop\showdown bot\pokemon-showdown\server\chat-plugins\seasons.ts:148:22)
+    at processTicksAndRejections (node:internal/process/task_queues:105:5)
+    at updateBadgeholders (C:\Users\uscda\Desktop\showdown bot\pokemon-showdown\server\chat-plugins\seasons.ts:164:20)
+
+SyntaxError: Unexpected token '<', "<br />
+<b>"... is not valid JSON
+    at JSON.parse (<anonymous>)
+    at getLadderTop (C:\Users\uscda\Desktop\showdown bot\pokemon-showdown\server\chat-plugins\seasons.ts:148:22)
+    at processTicksAndRejections (node:internal/process/task_queues:105:5)
+    at updateBadgeholders (C:\Users\uscda\Desktop\showdown bot\pokemon-showdown\server\chat-plugins\seasons.ts:164:20)
+
+SyntaxError: Unexpected token '<', "<br />
+<b>"... is not valid JSON
+    at JSON.parse (<anonymous>)
+    at getLadderTop (C:\Users\uscda\Desktop\showdown bot\pokemon-showdown\server\chat-plugins\seasons.ts:148:22)
+    at processTicksAndRejections (node:internal/process/task_queues:105:5)
+    at updateBadgeholders (C:\Users\uscda\Desktop\showdown bot\pokemon-showdown\server\chat-plugins\seasons.ts:164:20)
+
+Error: bind EADDRINUSE 0.0.0.0:8000
+    at listenOnPrimaryHandle (node:net:2020:18)
+    at shared (node:internal/cluster/child:157:3)
+    at Worker.<anonymous> (node:internal/cluster/child:110:7)
+    at process.onInternalMessage (node:internal/cluster/utils:49:5)
+    at process.emit (node:events:530:35)
+    at process.emit (node:domain:489:12)
+    at emit (node:internal/child_process:949:14)
+    at process.processTicksAndRejections (node:internal/process/task_queues:91:21)
+
+Error: getaddrinfo ENOTFOUND pokemonshowdown.com
+    at GetAddrInfoReqWrap.onlookupall [as oncomplete] (node:dns:122:26)
+
+Error: getaddrinfo ENOTFOUND pokemonshowdown.com
+    at GetAddrInfoReqWrap.onlookupall [as oncomplete] (node:dns:122:26)
+
+Error: getaddrinfo ENOTFOUND pokemonshowdown.com
+    at GetAddrInfoReqWrap.onlookupall [as oncomplete] (node:dns:122:26)
+
+Error: getaddrinfo ENOTFOUND pokemonshowdown.com
+    at GetAddrInfoReqWrap.onlookupall [as oncomplete] (node:dns:122:26)
+
+Error: getaddrinfo ENOTFOUND pokemonshowdown.com
+    at GetAddrInfoReqWrap.onlookupall [as oncomplete] (node:dns:122:26)
+
+Error: getaddrinfo ENOTFOUND pokemonshowdown.com
+    at GetAddrInfoReqWrap.onlookupall [as oncomplete] (node:dns:122:26)
+
+Error: getaddrinfo ENOTFOUND pokemonshowdown.com
+    at GetAddrInfoReqWrap.onlookupall [as oncomplete] (node:dns:122:26)
+
+Error: getaddrinfo ENOTFOUND pokemonshowdown.com
+    at GetAddrInfoReqWrap.onlookupall [as oncomplete] (node:dns:122:26)
+
+Error: getaddrinfo ENOTFOUND pokemonshowdown.com
+    at GetAddrInfoReqWrap.onlookupall [as oncomplete] (node:dns:122:26)
+
+Error: getaddrinfo ENOTFOUND pokemonshowdown.com
+    at GetAddrInfoReqWrap.onlookupall [as oncomplete] (node:dns:122:26)
+
+Error: getaddrinfo ENOTFOUND pokemonshowdown.com
+    at GetAddrInfoReqWrap.onlookupall [as oncomplete] (node:dns:122:26)
+
+Error: getaddrinfo ENOTFOUND pokemonshowdown.com
+    at GetAddrInfoReqWrap.onlookupall [as oncomplete] (node:dns:122:26)
+
+Error: getaddrinfo ENOTFOUND pokemonshowdown.com
+    at GetAddrInfoReqWrap.onlookupall [as oncomplete] (node:dns:122:26)
+
+Error: getaddrinfo ENOTFOUND pokemonshowdown.com
+    at GetAddrInfoReqWrap.onlookupall [as oncomplete] (node:dns:122:26)
+
+Error: getaddrinfo ENOTFOUND pokemonshowdown.com
+    at GetAddrInfoReqWrap.onlookupall [as oncomplete] (node:dns:122:26)
+
+Error: getaddrinfo ENOTFOUND pokemonshowdown.com
+    at GetAddrInfoReqWrap.onlookupall [as oncomplete] (node:dns:122:26)
+
+Error: getaddrinfo ENOTFOUND pokemonshowdown.com
+    at GetAddrInfoReqWrap.onlookupall [as oncomplete] (node:dns:122:26)
+
+Error: getaddrinfo ENOTFOUND pokemonshowdown.com
+    at GetAddrInfoReqWrap.onlookupall [as oncomplete] (node:dns:122:26)
+
+Error: getaddrinfo ENOTFOUND pokemonshowdown.com
+    at GetAddrInfoReqWrap.onlookupall [as oncomplete] (node:dns:122:26)
+
+Error: getaddrinfo ENOTFOUND pokemonshowdown.com
+    at GetAddrInfoReqWrap.onlookupall [as oncomplete] (node:dns:122:26)
+
+Error: getaddrinfo ENOTFOUND pokemonshowdown.com
+    at GetAddrInfoReqWrap.onlookupall [as oncomplete] (node:dns:122:26)
+
+Error: getaddrinfo ENOTFOUND pokemonshowdown.com
+    at GetAddrInfoReqWrap.onlookupall [as oncomplete] (node:dns:122:26)
+
+Error: getaddrinfo ENOTFOUND pokemonshowdown.com
+    at GetAddrInfoReqWrap.onlookupall [as oncomplete] (node:dns:122:26)
+
+Error: getaddrinfo ENOTFOUND pokemonshowdown.com
+    at GetAddrInfoReqWrap.onlookupall [as oncomplete] (node:dns:122:26)
+
+Error: getaddrinfo ENOTFOUND pokemonshowdown.com
+    at GetAddrInfoReqWrap.onlookupall [as oncomplete] (node:dns:122:26)
+
+Error: getaddrinfo ENOTFOUND pokemonshowdown.com
+    at GetAddrInfoReqWrap.onlookupall [as oncomplete] (node:dns:122:26)
+
+Error: getaddrinfo ENOTFOUND pokemonshowdown.com
+    at GetAddrInfoReqWrap.onlookupall [as oncomplete] (node:dns:122:26)
+
+Error: getaddrinfo ENOTFOUND pokemonshowdown.com
+    at GetAddrInfoReqWrap.onlookupall [as oncomplete] (node:dns:122:26)
+
+Error: getaddrinfo ENOTFOUND pokemonshowdown.com
+    at GetAddrInfoReqWrap.onlookupall [as oncomplete] (node:dns:122:26)
+
+Error: getaddrinfo ENOTFOUND pokemonshowdown.com
+    at GetAddrInfoReqWrap.onlookupall [as oncomplete] (node:dns:122:26)
+
+Error: getaddrinfo ENOTFOUND pokemonshowdown.com
+    at GetAddrInfoReqWrap.onlookupall [as oncomplete] (node:dns:122:26)
+
+Error: getaddrinfo ENOTFOUND pokemonshowdown.com
+    at GetAddrInfoReqWrap.onlookupall [as oncomplete] (node:dns:122:26)
+
+Error: getaddrinfo ENOTFOUND pokemonshowdown.com
+    at GetAddrInfoReqWrap.onlookupall [as oncomplete] (node:dns:122:26)
+
+Error: getaddrinfo ENOTFOUND pokemonshowdown.com
+    at GetAddrInfoReqWrap.onlookupall [as oncomplete] (node:dns:122:26)
+
+Error: getaddrinfo ENOTFOUND pokemonshowdown.com
+    at GetAddrInfoReqWrap.onlookupall [as oncomplete] (node:dns:122:26)
+
+Error: getaddrinfo ENOTFOUND pokemonshowdown.com
+    at GetAddrInfoReqWrap.onlookupall [as oncomplete] (node:dns:122:26)
+
+Error: getaddrinfo ENOTFOUND pokemonshowdown.com
+    at GetAddrInfoReqWrap.onlookupall [as oncomplete] (node:dns:122:26)
+
+Error: getaddrinfo ENOTFOUND pokemonshowdown.com
+    at GetAddrInfoReqWrap.onlookupall [as oncomplete] (node:dns:122:26)
+
+Error: getaddrinfo ENOTFOUND pokemonshowdown.com
+    at GetAddrInfoReqWrap.onlookupall [as oncomplete] (node:dns:122:26)
+
+Error: getaddrinfo ENOTFOUND pokemonshowdown.com
+    at GetAddrInfoReqWrap.onlookupall [as oncomplete] (node:dns:122:26)
+
+Error: getaddrinfo ENOTFOUND pokemonshowdown.com
+    at GetAddrInfoReqWrap.onlookupall [as oncomplete] (node:dns:122:26)
+
+Error: getaddrinfo ENOTFOUND pokemonshowdown.com
+    at GetAddrInfoReqWrap.onlookupall [as oncomplete] (node:dns:122:26)
+
+Error: getaddrinfo ENOTFOUND pokemonshowdown.com
+    at GetAddrInfoReqWrap.onlookupall [as oncomplete] (node:dns:122:26)
+
+Error: getaddrinfo ENOTFOUND pokemonshowdown.com
+    at GetAddrInfoReqWrap.onlookupall [as oncomplete] (node:dns:122:26)
+
+Error: getaddrinfo ENOTFOUND pokemonshowdown.com
+    at GetAddrInfoReqWrap.onlookupall [as oncomplete] (node:dns:122:26)
+
+Error: getaddrinfo ENOTFOUND pokemonshowdown.com
+    at GetAddrInfoReqWrap.onlookupall [as oncomplete] (node:dns:122:26)
+
+Error: getaddrinfo ENOTFOUND pokemonshowdown.com
+    at GetAddrInfoReqWrap.onlookupall [as oncomplete] (node:dns:122:26)
+
+Error: getaddrinfo ENOTFOUND pokemonshowdown.com
+    at GetAddrInfoReqWrap.onlookupall [as oncomplete] (node:dns:122:26)
+
+Error: getaddrinfo ENOTFOUND pokemonshowdown.com
+    at GetAddrInfoReqWrap.onlookupall [as oncomplete] (node:dns:122:26)
+
+Error: getaddrinfo ENOTFOUND pokemonshowdown.com
+    at GetAddrInfoReqWrap.onlookupall [as oncomplete] (node:dns:122:26)
+
+Error: getaddrinfo ENOTFOUND pokemonshowdown.com
+    at GetAddrInfoReqWrap.onlookupall [as oncomplete] (node:dns:122:26)
+
+Error: getaddrinfo ENOTFOUND pokemonshowdown.com
+    at GetAddrInfoReqWrap.onlookupall [as oncomplete] (node:dns:122:26)
+
+Error: getaddrinfo ENOTFOUND pokemonshowdown.com
+    at GetAddrInfoReqWrap.onlookupall [as oncomplete] (node:dns:122:26)
+
+Error: getaddrinfo ENOTFOUND pokemonshowdown.com
+    at GetAddrInfoReqWrap.onlookupall [as oncomplete] (node:dns:122:26)
+
+Error: getaddrinfo ENOTFOUND pokemonshowdown.com
+    at GetAddrInfoReqWrap.onlookupall [as oncomplete] (node:dns:122:26)
+
+Error: getaddrinfo ENOTFOUND pokemonshowdown.com
+    at GetAddrInfoReqWrap.onlookupall [as oncomplete] (node:dns:122:26)
+
+Error: getaddrinfo ENOTFOUND pokemonshowdown.com
+    at GetAddrInfoReqWrap.onlookupall [as oncomplete] (node:dns:122:26)
+
+Error: getaddrinfo ENOTFOUND pokemonshowdown.com
+    at GetAddrInfoReqWrap.onlookupall [as oncomplete] (node:dns:122:26)
+
+Error: getaddrinfo ENOTFOUND pokemonshowdown.com
+    at GetAddrInfoReqWrap.onlookupall [as oncomplete] (node:dns:122:26)
+
+Error: getaddrinfo ENOTFOUND pokemonshowdown.com
+    at GetAddrInfoReqWrap.onlookupall [as oncomplete] (node:dns:122:26)
+
+Error: getaddrinfo ENOTFOUND pokemonshowdown.com
+    at GetAddrInfoReqWrap.onlookupall [as oncomplete] (node:dns:122:26)
+
+Error: getaddrinfo ENOTFOUND pokemonshowdown.com
+    at GetAddrInfoReqWrap.onlookupall [as oncomplete] (node:dns:122:26)
+
+Error: getaddrinfo ENOTFOUND pokemonshowdown.com
+    at GetAddrInfoReqWrap.onlookupall [as oncomplete] (node:dns:122:26)
+
+Error: getaddrinfo ENOTFOUND pokemonshowdown.com
+    at GetAddrInfoReqWrap.onlookupall [as oncomplete] (node:dns:122:26)
+
+Error: getaddrinfo ENOTFOUND pokemonshowdown.com
+    at GetAddrInfoReqWrap.onlookupall [as oncomplete] (node:dns:122:26)
+
+Error: getaddrinfo ENOTFOUND pokemonshowdown.com
+    at GetAddrInfoReqWrap.onlookupall [as oncomplete] (node:dns:122:26)
+
+Error: getaddrinfo ENOTFOUND pokemonshowdown.com
+    at GetAddrInfoReqWrap.onlookupall [as oncomplete] (node:dns:122:26)
+
+Error: getaddrinfo ENOTFOUND pokemonshowdown.com
+    at GetAddrInfoReqWrap.onlookupall [as oncomplete] (node:dns:122:26)
+
+Error: getaddrinfo ENOTFOUND pokemonshowdown.com
+    at GetAddrInfoReqWrap.onlookupall [as oncomplete] (node:dns:122:26)
+
+Error: getaddrinfo ENOTFOUND pokemonshowdown.com
+    at GetAddrInfoReqWrap.onlookupall [as oncomplete] (node:dns:122:26)
+
+Error: getaddrinfo ENOTFOUND pokemonshowdown.com
+    at GetAddrInfoReqWrap.onlookupall [as oncomplete] (node:dns:122:26)
+
+Error: getaddrinfo ENOTFOUND pokemonshowdown.com
+    at GetAddrInfoReqWrap.onlookupall [as oncomplete] (node:dns:122:26)
+
+Error: getaddrinfo ENOTFOUND pokemonshowdown.com
+    at GetAddrInfoReqWrap.onlookupall [as oncomplete] (node:dns:122:26)
+
+Error: getaddrinfo ENOTFOUND pokemonshowdown.com
+    at GetAddrInfoReqWrap.onlookupall [as oncomplete] (node:dns:122:26)
+
+Error: getaddrinfo ENOTFOUND pokemonshowdown.com
+    at GetAddrInfoReqWrap.onlookupall [as oncomplete] (node:dns:122:26)
+
+Error: getaddrinfo ENOTFOUND pokemonshowdown.com
+    at GetAddrInfoReqWrap.onlookupall [as oncomplete] (node:dns:122:26)
+
+Error: getaddrinfo ENOTFOUND pokemonshowdown.com
+    at GetAddrInfoReqWrap.onlookupall [as oncomplete] (node:dns:122:26)
+
+Error: getaddrinfo ENOTFOUND pokemonshowdown.com
+    at GetAddrInfoReqWrap.onlookupall [as oncomplete] (node:dns:122:26)
+
+Error: getaddrinfo ENOTFOUND pokemonshowdown.com
+    at GetAddrInfoReqWrap.onlookupall [as oncomplete] (node:dns:122:26)
+
+Error: getaddrinfo ENOTFOUND pokemonshowdown.com
+    at GetAddrInfoReqWrap.onlookupall [as oncomplete] (node:dns:122:26)
+
+Error: getaddrinfo ENOTFOUND pokemonshowdown.com
+    at GetAddrInfoReqWrap.onlookupall [as oncomplete] (node:dns:122:26)
+
+Error: getaddrinfo ENOTFOUND pokemonshowdown.com
+    at GetAddrInfoReqWrap.onlookupall [as oncomplete] (node:dns:122:26)
+
+Error: getaddrinfo ENOTFOUND pokemonshowdown.com
+    at GetAddrInfoReqWrap.onlookupall [as oncomplete] (node:dns:122:26)
+
+Error: getaddrinfo ENOTFOUND pokemonshowdown.com
+    at GetAddrInfoReqWrap.onlookupall [as oncomplete] (node:dns:122:26)
+
+Error: IPC channel is already disconnected
+    at ChildProcess.target.disconnect (node:internal/child_process:903:26)
+    at QueryProcessWrapper.destroy (C:\Users\uscda\Desktop\showdown-bot\pokemon-showdown\lib\process-manager.ts:205:16)
+    at QueryProcessWrapper.release (C:\Users\uscda\Desktop\showdown-bot\pokemon-showdown\lib\process-manager.ts:191:9)
+    at QueryProcessManager.releaseCrashed (C:\Users\uscda\Desktop\showdown-bot\pokemon-showdown\lib\process-manager.ts:455:16)
+    at ChildProcess.<anonymous> (C:\Users\uscda\Desktop\showdown-bot\pokemon-showdown\lib\process-manager.ts:512:47)
+    at ChildProcess.emit (node:events:518:28)
+    at ChildProcess.emit (node:domain:489:12)
+    at finish (node:internal/child_process:933:14)
+    at processTicksAndRejections (node:internal/process/task_queues:85:11)
+
+Error: write EPIPE
+    at ChildProcess.target._send (node:internal/child_process:877:20)
+    at ChildProcess.target.send (node:internal/child_process:751:19)
+    at Worker.send (node:internal/cluster/worker:48:10)
+    at RawSubprocessStream._write (C:\Users\uscda\Desktop\showdown-bot\pokemon-showdown\lib\process-manager.ts:92:24)
+    at RawSubprocessStream.write (C:\Users\uscda\Desktop\showdown-bot\pokemon-showdown\lib\streams.ts:835:15)
+    at Object.roomBroadcast (C:\Users\uscda\Desktop\showdown-bot\pokemon-showdown\server\sockets.ts:107:23)
+    at BasicRoom.send (C:\Users\uscda\Desktop\showdown-bot\pokemon-showdown\server\rooms.ts:343:31)
+    at BasicRoom.update (C:\Users\uscda\Desktop\showdown-bot\pokemon-showdown\server\rooms.ts:436:8)
+    at GlobalRoomState.reportCrash (C:\Users\uscda\Desktop\showdown-bot\pokemon-showdown\server\rooms.ts:1855:35)
+    at Object.crashlog (C:\Users\uscda\Desktop\showdown-bot\pokemon-showdown\server\monitor.ts:90:16)
+
+Error: IPC channel is already disconnected
+    at ChildProcess.target.disconnect (node:internal/child_process:903:26)
+    at QueryProcessWrapper.destroy (C:\Users\uscda\Desktop\showdown-bot\pokemon-showdown\lib\process-manager.ts:205:16)
+    at QueryProcessWrapper.release (C:\Users\uscda\Desktop\showdown-bot\pokemon-showdown\lib\process-manager.ts:191:9)
+    at QueryProcessManager.releaseCrashed (C:\Users\uscda\Desktop\showdown-bot\pokemon-showdown\lib\process-manager.ts:455:16)
+    at ChildProcess.<anonymous> (C:\Users\uscda\Desktop\showdown-bot\pokemon-showdown\lib\process-manager.ts:512:47)
+    at ChildProcess.emit (node:events:518:28)
+    at ChildProcess.emit (node:domain:489:12)
+    at finish (node:internal/child_process:933:14)
+    at processTicksAndRejections (node:internal/process/task_queues:85:11)
+
+Error: IPC channel is already disconnected
+    at ChildProcess.target.disconnect (node:internal/child_process:903:26)
+    at QueryProcessWrapper.destroy (C:\Users\uscda\Desktop\showdown-bot\pokemon-showdown\lib\process-manager.ts:205:16)
+    at QueryProcessWrapper.release (C:\Users\uscda\Desktop\showdown-bot\pokemon-showdown\lib\process-manager.ts:191:9)
+    at QueryProcessManager.releaseCrashed (C:\Users\uscda\Desktop\showdown-bot\pokemon-showdown\lib\process-manager.ts:455:16)
+    at ChildProcess.<anonymous> (C:\Users\uscda\Desktop\showdown-bot\pokemon-showdown\lib\process-manager.ts:512:47)
+    at ChildProcess.emit (node:events:518:28)
+    at ChildProcess.emit (node:domain:489:12)
+    at finish (node:internal/child_process:933:14)
+    at processTicksAndRejections (node:internal/process/task_queues:85:11)
+
+Error: Process room-battle.js 4848 crashed and had to be restarted
+    at StreamProcessManager.releaseCrashed (C:\Users\uscda\Desktop\showdown-bot\pokemon-showdown\lib\process-manager.ts:471:4)
+    at ChildProcess.<anonymous> (C:\Users\uscda\Desktop\showdown-bot\pokemon-showdown\lib\process-manager.ts:512:47)
+    at ChildProcess.emit (node:events:518:28)
+    at ChildProcess.emit (node:domain:489:12)
+    at finish (node:internal/child_process:933:14)
+    at processTicksAndRejections (node:internal/process/task_queues:85:11)
+
+Error: Process sockets.js 1908 crashed and had to be restarted
+    at RawProcessManager.releaseCrashed (C:\Users\uscda\Desktop\showdown-bot\pokemon-showdown\lib\process-manager.ts:471:4)
+    at Worker.<anonymous> (C:\Users\uscda\Desktop\showdown-bot\pokemon-showdown\lib\process-manager.ts:512:47)
+    at Worker.emit (node:events:518:28)
+    at Worker.emit (node:domain:489:12)
+    at ChildProcess.<anonymous> (node:internal/cluster/primary:209:12)
+    at Object.onceWrapper (node:events:632:28)
+    at ChildProcess.emit (node:events:518:28)
+    at ChildProcess.emit (node:domain:489:12)
+    at finish (node:internal/child_process:933:14)
+    at processTicksAndRejections (node:internal/process/task_queues:85:11)
+
+Error: IPC channel is already disconnected
+    at ChildProcess.target.disconnect (node:internal/child_process:903:26)
+    at QueryProcessWrapper.destroy (C:\Users\uscda\Desktop\showdown-bot\pokemon-showdown\lib\process-manager.ts:205:16)
+    at QueryProcessWrapper.release (C:\Users\uscda\Desktop\showdown-bot\pokemon-showdown\lib\process-manager.ts:191:9)
+    at SQLDatabaseManager.releaseCrashed (C:\Users\uscda\Desktop\showdown-bot\pokemon-showdown\lib\process-manager.ts:455:16)
+    at ChildProcess.<anonymous> (C:\Users\uscda\Desktop\showdown-bot\pokemon-showdown\lib\process-manager.ts:512:47)
+    at ChildProcess.emit (node:events:518:28)
+    at ChildProcess.emit (node:domain:489:12)
+    at finish (node:internal/child_process:933:14)
+    at processTicksAndRejections (node:internal/process/task_queues:85:11)
+
+Error: IPC channel is already disconnected
+    at ChildProcess.target.disconnect (node:internal/child_process:903:26)
+    at QueryProcessWrapper.destroy (C:\Users\uscda\Desktop\showdown-bot\pokemon-showdown\lib\process-manager.ts:205:16)
+    at QueryProcessWrapper.release (C:\Users\uscda\Desktop\showdown-bot\pokemon-showdown\lib\process-manager.ts:191:9)
+    at QueryProcessManager.releaseCrashed (C:\Users\uscda\Desktop\showdown-bot\pokemon-showdown\lib\process-manager.ts:455:16)
+    at ChildProcess.<anonymous> (C:\Users\uscda\Desktop\showdown-bot\pokemon-showdown\lib\process-manager.ts:512:47)
+    at ChildProcess.emit (node:events:518:28)
+    at ChildProcess.emit (node:domain:489:12)
+    at finish (node:internal/child_process:933:14)
+    at processTicksAndRejections (node:internal/process/task_queues:85:11)
+
+Error: IPC channel is already disconnected
+    at ChildProcess.target.disconnect (node:internal/child_process:903:26)
+    at StreamProcessWrapper.destroy (C:\Users\uscda\Desktop\showdown-bot\pokemon-showdown\lib\process-manager.ts:321:16)
+    at StreamProcessWrapper.release (C:\Users\uscda\Desktop\showdown-bot\pokemon-showdown\lib\process-manager.ts:307:14)
+    at StreamProcessManager.releaseCrashed (C:\Users\uscda\Desktop\showdown-bot\pokemon-showdown\lib\process-manager.ts:455:16)
+    at ChildProcess.<anonymous> (C:\Users\uscda\Desktop\showdown-bot\pokemon-showdown\lib\process-manager.ts:512:47)
+    at ChildProcess.emit (node:events:518:28)
+    at ChildProcess.emit (node:domain:489:12)
+    at finish (node:internal/child_process:933:14)
+    at processTicksAndRejections (node:internal/process/task_queues:85:11)
+
+Error: IPC channel is already disconnected
+    at ChildProcess.target.disconnect (node:internal/child_process:903:26)
+    at QueryProcessWrapper.destroy (C:\Users\uscda\Desktop\showdown-bot\pokemon-showdown\lib\process-manager.ts:205:16)
+    at QueryProcessWrapper.release (C:\Users\uscda\Desktop\showdown-bot\pokemon-showdown\lib\process-manager.ts:191:9)
+    at QueryProcessManager.releaseCrashed (C:\Users\uscda\Desktop\showdown-bot\pokemon-showdown\lib\process-manager.ts:455:16)
+    at ChildProcess.<anonymous> (C:\Users\uscda\Desktop\showdown-bot\pokemon-showdown\lib\process-manager.ts:512:47)
+    at ChildProcess.emit (node:events:518:28)
+    at ChildProcess.emit (node:domain:489:12)
+    at finish (node:internal/child_process:933:14)
+    at processTicksAndRejections (node:internal/process/task_queues:85:11)
+
+SyntaxError: Unexpected token '<', "<br />
+<b>"... is not valid JSON
+    at JSON.parse (<anonymous>)
+    at getLadderTop (C:\Users\uscda\Desktop\showdown-bot\pokemon-showdown\server\chat-plugins\seasons.ts:148:22)
+    at processTicksAndRejections (node:internal/process/task_queues:105:5)
+    at updateBadgeholders (C:\Users\uscda\Desktop\showdown-bot\pokemon-showdown\server\chat-plugins\seasons.ts:164:20)
+
+SyntaxError: Unexpected token '<', "<br />
+<b>"... is not valid JSON
+    at JSON.parse (<anonymous>)
+    at getLadderTop (C:\Users\uscda\Desktop\showdown-bot\pokemon-showdown\server\chat-plugins\seasons.ts:148:22)
+    at processTicksAndRejections (node:internal/process/task_queues:105:5)
+    at updateBadgeholders (C:\Users\uscda\Desktop\showdown-bot\pokemon-showdown\server\chat-plugins\seasons.ts:164:20)
+
+Error: getaddrinfo ENOTFOUND pokemonshowdown.com
+    at GetAddrInfoReqWrap.onlookupall [as oncomplete] (node:dns:122:26)
+
+Error: getaddrinfo ENOTFOUND pokemonshowdown.com
+    at GetAddrInfoReqWrap.onlookupall [as oncomplete] (node:dns:122:26)
+
+Error: getaddrinfo ENOTFOUND pokemonshowdown.com
+    at GetAddrInfoReqWrap.onlookupall [as oncomplete] (node:dns:122:26)
+
+Error: getaddrinfo ENOTFOUND pokemonshowdown.com
+    at GetAddrInfoReqWrap.onlookupall [as oncomplete] (node:dns:122:26)
+
+Error: getaddrinfo ENOTFOUND pokemonshowdown.com
+    at GetAddrInfoReqWrap.onlookupall [as oncomplete] (node:dns:122:26)
+
+Error: getaddrinfo ENOTFOUND pokemonshowdown.com
+    at GetAddrInfoReqWrap.onlookupall [as oncomplete] (node:dns:122:26)
+
+Error: getaddrinfo ENOTFOUND pokemonshowdown.com
+    at GetAddrInfoReqWrap.onlookupall [as oncomplete] (node:dns:122:26)
+
+Error: getaddrinfo ENOTFOUND pokemonshowdown.com
+    at GetAddrInfoReqWrap.onlookupall [as oncomplete] (node:dns:122:26)
+
+Error: getaddrinfo ENOTFOUND pokemonshowdown.com
+    at GetAddrInfoReqWrap.onlookupall [as oncomplete] (node:dns:122:26)
+
+Error: getaddrinfo ENOTFOUND pokemonshowdown.com
+    at GetAddrInfoReqWrap.onlookupall [as oncomplete] (node:dns:122:26)
+
+Error: getaddrinfo ENOTFOUND pokemonshowdown.com
+    at GetAddrInfoReqWrap.onlookupall [as oncomplete] (node:dns:122:26)
+
+Error: getaddrinfo ENOTFOUND pokemonshowdown.com
+    at GetAddrInfoReqWrap.onlookupall [as oncomplete] (node:dns:122:26)
+
+Error: IPC channel is already disconnected
+    at ChildProcess.target.disconnect (node:internal/child_process:903:26)
+    at QueryProcessWrapper.destroy (C:\Users\uscda\Desktop\showdown-bot\pokemon-showdown\lib\process-manager.ts:205:16)
+    at QueryProcessWrapper.release (C:\Users\uscda\Desktop\showdown-bot\pokemon-showdown\lib\process-manager.ts:191:9)
+    at QueryProcessManager.releaseCrashed (C:\Users\uscda\Desktop\showdown-bot\pokemon-showdown\lib\process-manager.ts:455:16)
+    at ChildProcess.<anonymous> (C:\Users\uscda\Desktop\showdown-bot\pokemon-showdown\lib\process-manager.ts:512:47)
+    at ChildProcess.emit (node:events:518:28)
+    at ChildProcess.emit (node:domain:489:12)
+    at finish (node:internal/child_process:933:14)
+    at processTicksAndRejections (node:internal/process/task_queues:85:11)
+
+Error: write EPIPE
+    at ChildProcess.target._send (node:internal/child_process:877:20)
+    at ChildProcess.target.send (node:internal/child_process:751:19)
+    at Worker.send (node:internal/cluster/worker:48:10)
+    at RawSubprocessStream._write (C:\Users\uscda\Desktop\showdown-bot\pokemon-showdown\lib\process-manager.ts:92:24)
+    at RawSubprocessStream.write (C:\Users\uscda\Desktop\showdown-bot\pokemon-showdown\lib\streams.ts:835:15)
+    at Object.roomBroadcast (C:\Users\uscda\Desktop\showdown-bot\pokemon-showdown\server\sockets.ts:107:23)
+    at BasicRoom.send (C:\Users\uscda\Desktop\showdown-bot\pokemon-showdown\server\rooms.ts:343:31)
+    at BasicRoom.update (C:\Users\uscda\Desktop\showdown-bot\pokemon-showdown\server\rooms.ts:436:8)
+    at GlobalRoomState.reportCrash (C:\Users\uscda\Desktop\showdown-bot\pokemon-showdown\server\rooms.ts:1855:35)
+    at Object.crashlog (C:\Users\uscda\Desktop\showdown-bot\pokemon-showdown\server\monitor.ts:90:16)
+
+Error: IPC channel is already disconnected
+    at ChildProcess.target.disconnect (node:internal/child_process:903:26)
+    at QueryProcessWrapper.destroy (C:\Users\uscda\Desktop\showdown-bot\pokemon-showdown\lib\process-manager.ts:205:16)
+    at QueryProcessWrapper.release (C:\Users\uscda\Desktop\showdown-bot\pokemon-showdown\lib\process-manager.ts:191:9)
+    at QueryProcessManager.releaseCrashed (C:\Users\uscda\Desktop\showdown-bot\pokemon-showdown\lib\process-manager.ts:455:16)
+    at ChildProcess.<anonymous> (C:\Users\uscda\Desktop\showdown-bot\pokemon-showdown\lib\process-manager.ts:512:47)
+    at ChildProcess.emit (node:events:518:28)
+    at ChildProcess.emit (node:domain:489:12)
+    at finish (node:internal/child_process:933:14)
+    at processTicksAndRejections (node:internal/process/task_queues:85:11)
+
+Error: IPC channel is already disconnected
+    at ChildProcess.target.disconnect (node:internal/child_process:903:26)
+    at QueryProcessWrapper.destroy (C:\Users\uscda\Desktop\showdown-bot\pokemon-showdown\lib\process-manager.ts:205:16)
+    at QueryProcessWrapper.release (C:\Users\uscda\Desktop\showdown-bot\pokemon-showdown\lib\process-manager.ts:191:9)
+    at QueryProcessManager.releaseCrashed (C:\Users\uscda\Desktop\showdown-bot\pokemon-showdown\lib\process-manager.ts:455:16)
+    at ChildProcess.<anonymous> (C:\Users\uscda\Desktop\showdown-bot\pokemon-showdown\lib\process-manager.ts:512:47)
+    at ChildProcess.emit (node:events:518:28)
+    at ChildProcess.emit (node:domain:489:12)
+    at finish (node:internal/child_process:933:14)
+    at processTicksAndRejections (node:internal/process/task_queues:85:11)
+
+Error: IPC channel is already disconnected
+    at ChildProcess.target.disconnect (node:internal/child_process:903:26)
+    at StreamProcessWrapper.destroy (C:\Users\uscda\Desktop\showdown-bot\pokemon-showdown\lib\process-manager.ts:321:16)
+    at StreamProcessWrapper.release (C:\Users\uscda\Desktop\showdown-bot\pokemon-showdown\lib\process-manager.ts:307:14)
+    at StreamProcessManager.releaseCrashed (C:\Users\uscda\Desktop\showdown-bot\pokemon-showdown\lib\process-manager.ts:455:16)
+    at ChildProcess.<anonymous> (C:\Users\uscda\Desktop\showdown-bot\pokemon-showdown\lib\process-manager.ts:512:47)
+    at ChildProcess.emit (node:events:518:28)
+    at ChildProcess.emit (node:domain:489:12)
+    at finish (node:internal/child_process:933:14)
+    at processTicksAndRejections (node:internal/process/task_queues:85:11)
+
+Error: IPC channel is already disconnected
+    at ChildProcess.target.disconnect (node:internal/child_process:903:26)
+    at QueryProcessWrapper.destroy (C:\Users\uscda\Desktop\showdown-bot\pokemon-showdown\lib\process-manager.ts:205:16)
+    at QueryProcessWrapper.release (C:\Users\uscda\Desktop\showdown-bot\pokemon-showdown\lib\process-manager.ts:191:9)
+    at SQLDatabaseManager.releaseCrashed (C:\Users\uscda\Desktop\showdown-bot\pokemon-showdown\lib\process-manager.ts:455:16)
+    at ChildProcess.<anonymous> (C:\Users\uscda\Desktop\showdown-bot\pokemon-showdown\lib\process-manager.ts:512:47)
+    at ChildProcess.emit (node:events:518:28)
+    at ChildProcess.emit (node:domain:489:12)
+    at finish (node:internal/child_process:933:14)
+    at processTicksAndRejections (node:internal/process/task_queues:85:11)
+
+Error: IPC channel is already disconnected
+    at ChildProcess.target.disconnect (node:internal/child_process:903:26)
+    at QueryProcessWrapper.destroy (C:\Users\uscda\Desktop\showdown-bot\pokemon-showdown\lib\process-manager.ts:205:16)
+    at QueryProcessWrapper.release (C:\Users\uscda\Desktop\showdown-bot\pokemon-showdown\lib\process-manager.ts:191:9)
+    at QueryProcessManager.releaseCrashed (C:\Users\uscda\Desktop\showdown-bot\pokemon-showdown\lib\process-manager.ts:455:16)
+    at ChildProcess.<anonymous> (C:\Users\uscda\Desktop\showdown-bot\pokemon-showdown\lib\process-manager.ts:512:47)
+    at ChildProcess.emit (node:events:518:28)
+    at ChildProcess.emit (node:domain:489:12)
+    at finish (node:internal/child_process:933:14)
+    at processTicksAndRejections (node:internal/process/task_queues:85:11)
+
+Error: IPC channel is already disconnected
+    at ChildProcess.target.disconnect (node:internal/child_process:903:26)
+    at StreamProcessWrapper.destroy (C:\Users\uscda\Desktop\showdown-bot\pokemon-showdown\lib\process-manager.ts:321:16)
+    at StreamProcessWrapper.release (C:\Users\uscda\Desktop\showdown-bot\pokemon-showdown\lib\process-manager.ts:307:14)
+    at StreamProcessManager.releaseCrashed (C:\Users\uscda\Desktop\showdown-bot\pokemon-showdown\lib\process-manager.ts:455:16)
+    at ChildProcess.<anonymous> (C:\Users\uscda\Desktop\showdown-bot\pokemon-showdown\lib\process-manager.ts:512:47)
+    at ChildProcess.emit (node:events:518:28)
+    at ChildProcess.emit (node:domain:489:12)
+    at finish (node:internal/child_process:933:14)
+    at processTicksAndRejections (node:internal/process/task_queues:85:11)
+
+Error: Process sockets.js 25612 crashed and had to be restarted
+    at RawProcessManager.releaseCrashed (C:\Users\uscda\Desktop\showdown-bot\pokemon-showdown\lib\process-manager.ts:471:4)
+    at Worker.<anonymous> (C:\Users\uscda\Desktop\showdown-bot\pokemon-showdown\lib\process-manager.ts:512:47)
+    at Worker.emit (node:events:518:28)
+    at Worker.emit (node:domain:489:12)
+    at ChildProcess.<anonymous> (node:internal/cluster/primary:209:12)
+    at Object.onceWrapper (node:events:632:28)
+    at ChildProcess.emit (node:events:518:28)
+    at ChildProcess.emit (node:domain:489:12)
+    at finish (node:internal/child_process:933:14)
+    at processTicksAndRejections (node:internal/process/task_queues:85:11)
+
+Error: IPC channel is already disconnected
+    at ChildProcess.target.disconnect (node:internal/child_process:903:26)
+    at QueryProcessWrapper.destroy (C:\Users\uscda\Desktop\showdown-bot\pokemon-showdown\lib\process-manager.ts:205:16)
+    at QueryProcessWrapper.release (C:\Users\uscda\Desktop\showdown-bot\pokemon-showdown\lib\process-manager.ts:191:9)
+    at QueryProcessManager.releaseCrashed (C:\Users\uscda\Desktop\showdown-bot\pokemon-showdown\lib\process-manager.ts:455:16)
+    at ChildProcess.<anonymous> (C:\Users\uscda\Desktop\showdown-bot\pokemon-showdown\lib\process-manager.ts:512:47)
+    at ChildProcess.emit (node:events:518:28)
+    at ChildProcess.emit (node:domain:489:12)
+    at finish (node:internal/child_process:933:14)
+    at processTicksAndRejections (node:internal/process/task_queues:85:11)
+
+Error: write EPIPE
+    at ChildProcess.target._send (node:internal/child_process:877:20)
+    at ChildProcess.target.send (node:internal/child_process:751:19)
+    at Worker.send (node:internal/cluster/worker:48:10)
+    at RawSubprocessStream._write (C:\Users\uscda\Desktop\showdown-bot\pokemon-showdown\lib\process-manager.ts:92:24)
+    at RawSubprocessStream.write (C:\Users\uscda\Desktop\showdown-bot\pokemon-showdown\lib\streams.ts:835:15)
+    at Object.roomBroadcast (C:\Users\uscda\Desktop\showdown-bot\pokemon-showdown\server\sockets.ts:107:23)
+    at BasicRoom.send (C:\Users\uscda\Desktop\showdown-bot\pokemon-showdown\server\rooms.ts:343:31)
+    at BasicRoom.update (C:\Users\uscda\Desktop\showdown-bot\pokemon-showdown\server\rooms.ts:436:8)
+    at GlobalRoomState.reportCrash (C:\Users\uscda\Desktop\showdown-bot\pokemon-showdown\server\rooms.ts:1855:35)
+    at Object.crashlog (C:\Users\uscda\Desktop\showdown-bot\pokemon-showdown\server\monitor.ts:90:16)
+
+Error: IPC channel is already disconnected
+    at ChildProcess.target.disconnect (node:internal/child_process:903:26)
+    at QueryProcessWrapper.destroy (C:\Users\uscda\Desktop\showdown-bot\pokemon-showdown\lib\process-manager.ts:205:16)
+    at QueryProcessWrapper.release (C:\Users\uscda\Desktop\showdown-bot\pokemon-showdown\lib\process-manager.ts:191:9)
+    at QueryProcessManager.releaseCrashed (C:\Users\uscda\Desktop\showdown-bot\pokemon-showdown\lib\process-manager.ts:455:16)
+    at ChildProcess.<anonymous> (C:\Users\uscda\Desktop\showdown-bot\pokemon-showdown\lib\process-manager.ts:512:47)
+    at ChildProcess.emit (node:events:518:28)
+    at ChildProcess.emit (node:domain:489:12)
+    at finish (node:internal/child_process:933:14)
+    at processTicksAndRejections (node:internal/process/task_queues:85:11)
+
+Error: IPC channel is already disconnected
+    at ChildProcess.target.disconnect (node:internal/child_process:903:26)
+    at QueryProcessWrapper.destroy (C:\Users\uscda\Desktop\showdown-bot\pokemon-showdown\lib\process-manager.ts:205:16)
+    at QueryProcessWrapper.release (C:\Users\uscda\Desktop\showdown-bot\pokemon-showdown\lib\process-manager.ts:191:9)
+    at QueryProcessManager.releaseCrashed (C:\Users\uscda\Desktop\showdown-bot\pokemon-showdown\lib\process-manager.ts:455:16)
+    at ChildProcess.<anonymous> (C:\Users\uscda\Desktop\showdown-bot\pokemon-showdown\lib\process-manager.ts:512:47)
+    at ChildProcess.emit (node:events:518:28)
+    at ChildProcess.emit (node:domain:489:12)
+    at finish (node:internal/child_process:933:14)
+    at processTicksAndRejections (node:internal/process/task_queues:85:11)
+
+Error: IPC channel is already disconnected
+    at ChildProcess.target.disconnect (node:internal/child_process:903:26)
+    at StreamProcessWrapper.destroy (C:\Users\uscda\Desktop\showdown-bot\pokemon-showdown\lib\process-manager.ts:321:16)
+    at StreamProcessWrapper.release (C:\Users\uscda\Desktop\showdown-bot\pokemon-showdown\lib\process-manager.ts:307:14)
+    at StreamProcessManager.releaseCrashed (C:\Users\uscda\Desktop\showdown-bot\pokemon-showdown\lib\process-manager.ts:455:16)
+    at ChildProcess.<anonymous> (C:\Users\uscda\Desktop\showdown-bot\pokemon-showdown\lib\process-manager.ts:512:47)
+    at ChildProcess.emit (node:events:518:28)
+    at ChildProcess.emit (node:domain:489:12)
+    at finish (node:internal/child_process:933:14)
+    at processTicksAndRejections (node:internal/process/task_queues:85:11)
+
+Error: IPC channel is already disconnected
+    at ChildProcess.target.disconnect (node:internal/child_process:903:26)
+    at QueryProcessWrapper.destroy (C:\Users\uscda\Desktop\showdown-bot\pokemon-showdown\lib\process-manager.ts:205:16)
+    at QueryProcessWrapper.release (C:\Users\uscda\Desktop\showdown-bot\pokemon-showdown\lib\process-manager.ts:191:9)
+    at SQLDatabaseManager.releaseCrashed (C:\Users\uscda\Desktop\showdown-bot\pokemon-showdown\lib\process-manager.ts:455:16)
+    at ChildProcess.<anonymous> (C:\Users\uscda\Desktop\showdown-bot\pokemon-showdown\lib\process-manager.ts:512:47)
+    at ChildProcess.emit (node:events:518:28)
+    at ChildProcess.emit (node:domain:489:12)
+    at finish (node:internal/child_process:933:14)
+    at processTicksAndRejections (node:internal/process/task_queues:85:11)
+
+Error: IPC channel is already disconnected
+    at ChildProcess.target.disconnect (node:internal/child_process:903:26)
+    at QueryProcessWrapper.destroy (C:\Users\uscda\Desktop\showdown-bot\pokemon-showdown\lib\process-manager.ts:205:16)
+    at QueryProcessWrapper.release (C:\Users\uscda\Desktop\showdown-bot\pokemon-showdown\lib\process-manager.ts:191:9)
+    at QueryProcessManager.releaseCrashed (C:\Users\uscda\Desktop\showdown-bot\pokemon-showdown\lib\process-manager.ts:455:16)
+    at ChildProcess.<anonymous> (C:\Users\uscda\Desktop\showdown-bot\pokemon-showdown\lib\process-manager.ts:512:47)
+    at ChildProcess.emit (node:events:518:28)
+    at ChildProcess.emit (node:domain:489:12)
+    at finish (node:internal/child_process:933:14)
+    at processTicksAndRejections (node:internal/process/task_queues:85:11)
+
+Error: IPC channel is already disconnected
+    at ChildProcess.target.disconnect (node:internal/child_process:903:26)
+    at StreamProcessWrapper.destroy (C:\Users\uscda\Desktop\showdown-bot\pokemon-showdown\lib\process-manager.ts:321:16)
+    at StreamProcessWrapper.release (C:\Users\uscda\Desktop\showdown-bot\pokemon-showdown\lib\process-manager.ts:307:14)
+    at StreamProcessManager.releaseCrashed (C:\Users\uscda\Desktop\showdown-bot\pokemon-showdown\lib\process-manager.ts:455:16)
+    at ChildProcess.<anonymous> (C:\Users\uscda\Desktop\showdown-bot\pokemon-showdown\lib\process-manager.ts:512:47)
+    at ChildProcess.emit (node:events:518:28)
+    at ChildProcess.emit (node:domain:489:12)
+    at finish (node:internal/child_process:933:14)
+    at processTicksAndRejections (node:internal/process/task_queues:85:11)
+
+Error: IPC channel is already disconnected
+    at ChildProcess.target.disconnect (node:internal/child_process:903:26)
+    at QueryProcessWrapper.destroy (C:\Users\uscda\Desktop\showdown-bot\pokemon-showdown\lib\process-manager.ts:205:16)
+    at QueryProcessWrapper.release (C:\Users\uscda\Desktop\showdown-bot\pokemon-showdown\lib\process-manager.ts:191:9)
+    at QueryProcessManager.releaseCrashed (C:\Users\uscda\Desktop\showdown-bot\pokemon-showdown\lib\process-manager.ts:455:16)
+    at ChildProcess.<anonymous> (C:\Users\uscda\Desktop\showdown-bot\pokemon-showdown\lib\process-manager.ts:512:47)
+    at ChildProcess.emit (node:events:518:28)
+    at ChildProcess.emit (node:domain:489:12)
+    at finish (node:internal/child_process:933:14)
+    at processTicksAndRejections (node:internal/process/task_queues:85:11)
+
+Error: Process sockets.js 79100 crashed and had to be restarted
+    at RawProcessManager.releaseCrashed (C:\Users\uscda\Desktop\showdown-bot\pokemon-showdown\lib\process-manager.ts:471:4)
+    at Worker.<anonymous> (C:\Users\uscda\Desktop\showdown-bot\pokemon-showdown\lib\process-manager.ts:512:47)
+    at Worker.emit (node:events:518:28)
+    at Worker.emit (node:domain:489:12)
+    at ChildProcess.<anonymous> (node:internal/cluster/primary:209:12)
+    at Object.onceWrapper (node:events:632:28)
+    at ChildProcess.emit (node:events:518:28)
+    at ChildProcess.emit (node:domain:489:12)
+    at finish (node:internal/child_process:933:14)
+    at processTicksAndRejections (node:internal/process/task_queues:85:11)
+
+Error: getaddrinfo ENOTFOUND pokemonshowdown.com
+    at GetAddrInfoReqWrap.onlookupall [as oncomplete] (node:dns:122:26)
+
+Error: getaddrinfo ENOTFOUND pokemonshowdown.com
+    at GetAddrInfoReqWrap.onlookupall [as oncomplete] (node:dns:122:26)
+
+Error: getaddrinfo ENOTFOUND pokemonshowdown.com
+    at GetAddrInfoReqWrap.onlookupall [as oncomplete] (node:dns:122:26)
+
+Error: getaddrinfo ENOTFOUND pokemonshowdown.com
+    at GetAddrInfoReqWrap.onlookupall [as oncomplete] (node:dns:122:26)
+
+Error: getaddrinfo ENOTFOUND pokemonshowdown.com
+    at GetAddrInfoReqWrap.onlookupall [as oncomplete] (node:dns:122:26)
+
+Error: getaddrinfo ENOTFOUND pokemonshowdown.com
+    at GetAddrInfoReqWrap.onlookupall [as oncomplete] (node:dns:122:26)
+
+Error: getaddrinfo ENOTFOUND pokemonshowdown.com
+    at GetAddrInfoReqWrap.onlookupall [as oncomplete] (node:dns:122:26)
+
+Error: getaddrinfo ENOTFOUND pokemonshowdown.com
+    at GetAddrInfoReqWrap.onlookupall [as oncomplete] (node:dns:122:26)
+
+Error: getaddrinfo ENOTFOUND pokemonshowdown.com
+    at GetAddrInfoReqWrap.onlookupall [as oncomplete] (node:dns:122:26)
+
+Error: getaddrinfo ENOTFOUND pokemonshowdown.com
+    at GetAddrInfoReqWrap.onlookupall [as oncomplete] (node:dns:122:26)
+
+Error: getaddrinfo ENOTFOUND pokemonshowdown.com
+    at GetAddrInfoReqWrap.onlookupall [as oncomplete] (node:dns:122:26)
+
+Error: getaddrinfo ENOTFOUND pokemonshowdown.com
+    at GetAddrInfoReqWrap.onlookupall [as oncomplete] (node:dns:122:26)
+
+Error: IPC channel is already disconnected
+    at ChildProcess.target.disconnect (node:internal/child_process:903:26)
+    at QueryProcessWrapper.destroy (C:\Users\uscda\Desktop\showdown-bot\pokemon-showdown\lib\process-manager.ts:205:16)
+    at QueryProcessWrapper.release (C:\Users\uscda\Desktop\showdown-bot\pokemon-showdown\lib\process-manager.ts:191:9)
+    at QueryProcessManager.releaseCrashed (C:\Users\uscda\Desktop\showdown-bot\pokemon-showdown\lib\process-manager.ts:455:16)
+    at ChildProcess.<anonymous> (C:\Users\uscda\Desktop\showdown-bot\pokemon-showdown\lib\process-manager.ts:512:47)
+    at ChildProcess.emit (node:events:518:28)
+    at ChildProcess.emit (node:domain:489:12)
+    at finish (node:internal/child_process:933:14)
+    at processTicksAndRejections (node:internal/process/task_queues:85:11)
+
+Error: IPC channel is already disconnected
+    at ChildProcess.target.disconnect (node:internal/child_process:903:26)
+    at QueryProcessWrapper.destroy (C:\Users\uscda\Desktop\showdown-bot\pokemon-showdown\lib\process-manager.ts:205:16)
+    at QueryProcessWrapper.release (C:\Users\uscda\Desktop\showdown-bot\pokemon-showdown\lib\process-manager.ts:191:9)
+    at QueryProcessManager.releaseCrashed (C:\Users\uscda\Desktop\showdown-bot\pokemon-showdown\lib\process-manager.ts:455:16)
+    at ChildProcess.<anonymous> (C:\Users\uscda\Desktop\showdown-bot\pokemon-showdown\lib\process-manager.ts:512:47)
+    at ChildProcess.emit (node:events:518:28)
+    at ChildProcess.emit (node:domain:489:12)
+    at finish (node:internal/child_process:933:14)
+    at processTicksAndRejections (node:internal/process/task_queues:85:11)
+
+Error: Process sockets.js 24944 crashed and had to be restarted
+    at RawProcessManager.releaseCrashed (C:\Users\uscda\Desktop\showdown-bot\pokemon-showdown\lib\process-manager.ts:471:4)
+    at Worker.<anonymous> (C:\Users\uscda\Desktop\showdown-bot\pokemon-showdown\lib\process-manager.ts:512:47)
+    at Worker.emit (node:events:518:28)
+    at Worker.emit (node:domain:489:12)
+    at ChildProcess.<anonymous> (node:internal/cluster/primary:209:12)
+    at Object.onceWrapper (node:events:632:28)
+    at ChildProcess.emit (node:events:518:28)
+    at ChildProcess.emit (node:domain:489:12)
+    at finish (node:internal/child_process:933:14)
+    at processTicksAndRejections (node:internal/process/task_queues:85:11)
+
+Error: IPC channel is already disconnected
+    at ChildProcess.target.disconnect (node:internal/child_process:903:26)
+    at QueryProcessWrapper.destroy (C:\Users\uscda\Desktop\showdown-bot\pokemon-showdown\lib\process-manager.ts:205:16)
+    at QueryProcessWrapper.release (C:\Users\uscda\Desktop\showdown-bot\pokemon-showdown\lib\process-manager.ts:191:9)
+    at QueryProcessManager.releaseCrashed (C:\Users\uscda\Desktop\showdown-bot\pokemon-showdown\lib\process-manager.ts:455:16)
+    at ChildProcess.<anonymous> (C:\Users\uscda\Desktop\showdown-bot\pokemon-showdown\lib\process-manager.ts:512:47)
+    at ChildProcess.emit (node:events:518:28)
+    at ChildProcess.emit (node:domain:489:12)
+    at finish (node:internal/child_process:933:14)
+    at processTicksAndRejections (node:internal/process/task_queues:85:11)
+
+Error: IPC channel is already disconnected
+    at ChildProcess.target.disconnect (node:internal/child_process:903:26)
+    at StreamProcessWrapper.destroy (C:\Users\uscda\Desktop\showdown-bot\pokemon-showdown\lib\process-manager.ts:321:16)
+    at StreamProcessWrapper.release (C:\Users\uscda\Desktop\showdown-bot\pokemon-showdown\lib\process-manager.ts:307:14)
+    at StreamProcessManager.releaseCrashed (C:\Users\uscda\Desktop\showdown-bot\pokemon-showdown\lib\process-manager.ts:455:16)
+    at ChildProcess.<anonymous> (C:\Users\uscda\Desktop\showdown-bot\pokemon-showdown\lib\process-manager.ts:512:47)
+    at ChildProcess.emit (node:events:518:28)
+    at ChildProcess.emit (node:domain:489:12)
+    at finish (node:internal/child_process:933:14)
+    at processTicksAndRejections (node:internal/process/task_queues:85:11)
+
+Error: IPC channel is already disconnected
+    at ChildProcess.target.disconnect (node:internal/child_process:903:26)
+    at QueryProcessWrapper.destroy (C:\Users\uscda\Desktop\showdown-bot\pokemon-showdown\lib\process-manager.ts:205:16)
+    at QueryProcessWrapper.release (C:\Users\uscda\Desktop\showdown-bot\pokemon-showdown\lib\process-manager.ts:191:9)
+    at SQLDatabaseManager.releaseCrashed (C:\Users\uscda\Desktop\showdown-bot\pokemon-showdown\lib\process-manager.ts:455:16)
+    at ChildProcess.<anonymous> (C:\Users\uscda\Desktop\showdown-bot\pokemon-showdown\lib\process-manager.ts:512:47)
+    at ChildProcess.emit (node:events:518:28)
+    at ChildProcess.emit (node:domain:489:12)
+    at finish (node:internal/child_process:933:14)
+    at processTicksAndRejections (node:internal/process/task_queues:85:11)
+
+Error: IPC channel is already disconnected
+    at ChildProcess.target.disconnect (node:internal/child_process:903:26)
+    at QueryProcessWrapper.destroy (C:\Users\uscda\Desktop\showdown-bot\pokemon-showdown\lib\process-manager.ts:205:16)
+    at QueryProcessWrapper.release (C:\Users\uscda\Desktop\showdown-bot\pokemon-showdown\lib\process-manager.ts:191:9)
+    at QueryProcessManager.releaseCrashed (C:\Users\uscda\Desktop\showdown-bot\pokemon-showdown\lib\process-manager.ts:455:16)
+    at ChildProcess.<anonymous> (C:\Users\uscda\Desktop\showdown-bot\pokemon-showdown\lib\process-manager.ts:512:47)
+    at ChildProcess.emit (node:events:518:28)
+    at ChildProcess.emit (node:domain:489:12)
+    at finish (node:internal/child_process:933:14)
+    at processTicksAndRejections (node:internal/process/task_queues:85:11)
+
+Error: IPC channel is already disconnected
+    at ChildProcess.target.disconnect (node:internal/child_process:903:26)
+    at StreamProcessWrapper.destroy (C:\Users\uscda\Desktop\showdown-bot\pokemon-showdown\lib\process-manager.ts:321:16)
+    at StreamProcessWrapper.release (C:\Users\uscda\Desktop\showdown-bot\pokemon-showdown\lib\process-manager.ts:307:14)
+    at StreamProcessManager.releaseCrashed (C:\Users\uscda\Desktop\showdown-bot\pokemon-showdown\lib\process-manager.ts:455:16)
+    at ChildProcess.<anonymous> (C:\Users\uscda\Desktop\showdown-bot\pokemon-showdown\lib\process-manager.ts:512:47)
+    at ChildProcess.emit (node:events:518:28)
+    at ChildProcess.emit (node:domain:489:12)
+    at finish (node:internal/child_process:933:14)
+    at processTicksAndRejections (node:internal/process/task_queues:85:11)
+
+Error: IPC channel is already disconnected
+    at ChildProcess.target.disconnect (node:internal/child_process:903:26)
+    at QueryProcessWrapper.destroy (C:\Users\uscda\Desktop\showdown-bot\pokemon-showdown\lib\process-manager.ts:205:16)
+    at QueryProcessWrapper.release (C:\Users\uscda\Desktop\showdown-bot\pokemon-showdown\lib\process-manager.ts:191:9)
+    at QueryProcessManager.releaseCrashed (C:\Users\uscda\Desktop\showdown-bot\pokemon-showdown\lib\process-manager.ts:455:16)
+    at ChildProcess.<anonymous> (C:\Users\uscda\Desktop\showdown-bot\pokemon-showdown\lib\process-manager.ts:512:47)
+    at ChildProcess.emit (node:events:518:28)
+    at ChildProcess.emit (node:domain:489:12)
+    at finish (node:internal/child_process:933:14)
+    at processTicksAndRejections (node:internal/process/task_queues:85:11)
+
+Error: IPC channel is already disconnected
+    at ChildProcess.target.disconnect (node:internal/child_process:903:26)
+    at QueryProcessWrapper.destroy (C:\Users\uscda\Desktop\showdown-bot\pokemon-showdown\lib\process-manager.ts:205:16)
+    at QueryProcessWrapper.release (C:\Users\uscda\Desktop\showdown-bot\pokemon-showdown\lib\process-manager.ts:191:9)
+    at QueryProcessManager.releaseCrashed (C:\Users\uscda\Desktop\showdown-bot\pokemon-showdown\lib\process-manager.ts:455:16)
+    at ChildProcess.<anonymous> (C:\Users\uscda\Desktop\showdown-bot\pokemon-showdown\lib\process-manager.ts:512:47)
+    at ChildProcess.emit (node:events:518:28)
+    at ChildProcess.emit (node:domain:489:12)
+    at finish (node:internal/child_process:933:14)
+    at processTicksAndRejections (node:internal/process/task_queues:85:11)
+
+Error: write EPIPE
+    at ChildProcess.target._send (node:internal/child_process:877:20)
+    at ChildProcess.target.send (node:internal/child_process:751:19)
+    at Worker.send (node:internal/cluster/worker:48:10)
+    at RawSubprocessStream._write (C:\Users\uscda\Desktop\showdown-bot\pokemon-showdown\lib\process-manager.ts:92:24)
+    at RawSubprocessStream.write (C:\Users\uscda\Desktop\showdown-bot\pokemon-showdown\lib\streams.ts:835:15)
+    at Object.roomBroadcast (C:\Users\uscda\Desktop\showdown-bot\pokemon-showdown\server\sockets.ts:107:23)
+    at BasicRoom.send (C:\Users\uscda\Desktop\showdown-bot\pokemon-showdown\server\rooms.ts:343:31)
+    at BasicRoom.update (C:\Users\uscda\Desktop\showdown-bot\pokemon-showdown\server\rooms.ts:436:8)
+    at GlobalRoomState.reportCrash (C:\Users\uscda\Desktop\showdown-bot\pokemon-showdown\server\rooms.ts:1855:35)
+    at Object.crashlog (C:\Users\uscda\Desktop\showdown-bot\pokemon-showdown\server\monitor.ts:90:16)
+
+Error: IPC channel is already disconnected
+    at ChildProcess.target.disconnect (node:internal/child_process:903:26)
+    at QueryProcessWrapper.destroy (C:\Users\uscda\Desktop\showdown-bot\pokemon-showdown\lib\process-manager.ts:205:16)
+    at QueryProcessWrapper.release (C:\Users\uscda\Desktop\showdown-bot\pokemon-showdown\lib\process-manager.ts:191:9)
+    at QueryProcessManager.releaseCrashed (C:\Users\uscda\Desktop\showdown-bot\pokemon-showdown\lib\process-manager.ts:455:16)
+    at ChildProcess.<anonymous> (C:\Users\uscda\Desktop\showdown-bot\pokemon-showdown\lib\process-manager.ts:512:47)
+    at ChildProcess.emit (node:events:518:28)
+    at ChildProcess.emit (node:domain:489:12)
+    at finish (node:internal/child_process:933:14)
+    at processTicksAndRejections (node:internal/process/task_queues:85:11)
+
+Error: IPC channel is already disconnected
+    at ChildProcess.target.disconnect (node:internal/child_process:903:26)
+    at QueryProcessWrapper.destroy (C:\Users\uscda\Desktop\showdown-bot\pokemon-showdown\lib\process-manager.ts:205:16)
+    at QueryProcessWrapper.release (C:\Users\uscda\Desktop\showdown-bot\pokemon-showdown\lib\process-manager.ts:191:9)
+    at QueryProcessManager.releaseCrashed (C:\Users\uscda\Desktop\showdown-bot\pokemon-showdown\lib\process-manager.ts:455:16)
+    at ChildProcess.<anonymous> (C:\Users\uscda\Desktop\showdown-bot\pokemon-showdown\lib\process-manager.ts:512:47)
+    at ChildProcess.emit (node:events:518:28)
+    at ChildProcess.emit (node:domain:489:12)
+    at finish (node:internal/child_process:933:14)
+    at processTicksAndRejections (node:internal/process/task_queues:85:11)
+
+Error: IPC channel is already disconnected
+    at ChildProcess.target.disconnect (node:internal/child_process:903:26)
+    at StreamProcessWrapper.destroy (C:\Users\uscda\Desktop\showdown-bot\pokemon-showdown\lib\process-manager.ts:321:16)
+    at StreamProcessWrapper.release (C:\Users\uscda\Desktop\showdown-bot\pokemon-showdown\lib\process-manager.ts:307:14)
+    at StreamProcessManager.releaseCrashed (C:\Users\uscda\Desktop\showdown-bot\pokemon-showdown\lib\process-manager.ts:455:16)
+    at ChildProcess.<anonymous> (C:\Users\uscda\Desktop\showdown-bot\pokemon-showdown\lib\process-manager.ts:512:47)
+    at ChildProcess.emit (node:events:518:28)
+    at ChildProcess.emit (node:domain:489:12)
+    at finish (node:internal/child_process:933:14)
+    at processTicksAndRejections (node:internal/process/task_queues:85:11)
+
+Error: Process sockets.js 25152 crashed and had to be restarted
+    at RawProcessManager.releaseCrashed (C:\Users\uscda\Desktop\showdown-bot\pokemon-showdown\lib\process-manager.ts:471:4)
+    at Worker.<anonymous> (C:\Users\uscda\Desktop\showdown-bot\pokemon-showdown\lib\process-manager.ts:512:47)
+    at Worker.emit (node:events:518:28)
+    at Worker.emit (node:domain:489:12)
+    at ChildProcess.<anonymous> (node:internal/cluster/primary:209:12)
+    at Object.onceWrapper (node:events:632:28)
+    at ChildProcess.emit (node:events:518:28)
+    at ChildProcess.emit (node:domain:489:12)
+    at finish (node:internal/child_process:933:14)
+    at processTicksAndRejections (node:internal/process/task_queues:85:11)
+
+Error: IPC channel is already disconnected
+    at ChildProcess.target.disconnect (node:internal/child_process:903:26)
+    at QueryProcessWrapper.destroy (C:\Users\uscda\Desktop\showdown-bot\pokemon-showdown\lib\process-manager.ts:205:16)
+    at QueryProcessWrapper.release (C:\Users\uscda\Desktop\showdown-bot\pokemon-showdown\lib\process-manager.ts:191:9)
+    at SQLDatabaseManager.releaseCrashed (C:\Users\uscda\Desktop\showdown-bot\pokemon-showdown\lib\process-manager.ts:455:16)
+    at ChildProcess.<anonymous> (C:\Users\uscda\Desktop\showdown-bot\pokemon-showdown\lib\process-manager.ts:512:47)
+    at ChildProcess.emit (node:events:518:28)
+    at ChildProcess.emit (node:domain:489:12)
+    at finish (node:internal/child_process:933:14)
+    at processTicksAndRejections (node:internal/process/task_queues:85:11)
+
+Error: IPC channel is already disconnected
+    at ChildProcess.target.disconnect (node:internal/child_process:903:26)
+    at QueryProcessWrapper.destroy (C:\Users\uscda\Desktop\showdown-bot\pokemon-showdown\lib\process-manager.ts:205:16)
+    at QueryProcessWrapper.release (C:\Users\uscda\Desktop\showdown-bot\pokemon-showdown\lib\process-manager.ts:191:9)
+    at QueryProcessManager.releaseCrashed (C:\Users\uscda\Desktop\showdown-bot\pokemon-showdown\lib\process-manager.ts:455:16)
+    at ChildProcess.<anonymous> (C:\Users\uscda\Desktop\showdown-bot\pokemon-showdown\lib\process-manager.ts:512:47)
+    at ChildProcess.emit (node:events:518:28)
+    at ChildProcess.emit (node:domain:489:12)
+    at finish (node:internal/child_process:933:14)
+    at processTicksAndRejections (node:internal/process/task_queues:85:11)
+
+Error: IPC channel is already disconnected
+    at ChildProcess.target.disconnect (node:internal/child_process:903:26)
+    at StreamProcessWrapper.destroy (C:\Users\uscda\Desktop\showdown-bot\pokemon-showdown\lib\process-manager.ts:321:16)
+    at StreamProcessWrapper.release (C:\Users\uscda\Desktop\showdown-bot\pokemon-showdown\lib\process-manager.ts:307:14)
+    at StreamProcessManager.releaseCrashed (C:\Users\uscda\Desktop\showdown-bot\pokemon-showdown\lib\process-manager.ts:455:16)
+    at ChildProcess.<anonymous> (C:\Users\uscda\Desktop\showdown-bot\pokemon-showdown\lib\process-manager.ts:512:47)
+    at ChildProcess.emit (node:events:518:28)
+    at ChildProcess.emit (node:domain:489:12)
+    at finish (node:internal/child_process:933:14)
+    at processTicksAndRejections (node:internal/process/task_queues:85:11)
+
+Error: IPC channel is already disconnected
+    at ChildProcess.target.disconnect (node:internal/child_process:903:26)
+    at QueryProcessWrapper.destroy (C:\Users\uscda\Desktop\showdown-bot\pokemon-showdown\lib\process-manager.ts:205:16)
+    at QueryProcessWrapper.release (C:\Users\uscda\Desktop\showdown-bot\pokemon-showdown\lib\process-manager.ts:191:9)
+    at QueryProcessManager.releaseCrashed (C:\Users\uscda\Desktop\showdown-bot\pokemon-showdown\lib\process-manager.ts:455:16)
+    at ChildProcess.<anonymous> (C:\Users\uscda\Desktop\showdown-bot\pokemon-showdown\lib\process-manager.ts:512:47)
+    at ChildProcess.emit (node:events:518:28)
+    at ChildProcess.emit (node:domain:489:12)
+    at finish (node:internal/child_process:933:14)
+    at processTicksAndRejections (node:internal/process/task_queues:85:11)
+
+SyntaxError: Unexpected token '<', "<br />
+<b>"... is not valid JSON
+    at JSON.parse (<anonymous>)
+    at getLadderTop (C:\Users\uscda\Desktop\showdown-bot\pokemon-showdown\server\chat-plugins\seasons.ts:148:22)
+    at processTicksAndRejections (node:internal/process/task_queues:105:5)
+    at updateBadgeholders (C:\Users\uscda\Desktop\showdown-bot\pokemon-showdown\server\chat-plugins\seasons.ts:164:20)
+
+SyntaxError: Unexpected token '<', "<br />
+<b>"... is not valid JSON
+    at JSON.parse (<anonymous>)
+    at getLadderTop (C:\Users\uscda\Desktop\showdown-bot\pokemon-showdown\server\chat-plugins\seasons.ts:148:22)
+    at processTicksAndRejections (node:internal/process/task_queues:105:5)
+    at updateBadgeholders (C:\Users\uscda\Desktop\showdown-bot\pokemon-showdown\server\chat-plugins\seasons.ts:164:20)
+
+Error: IPC channel is already disconnected
+    at ChildProcess.target.disconnect (node:internal/child_process:903:26)
+    at QueryProcessWrapper.destroy (C:\Users\uscda\Desktop\showdown-bot\pokemon-showdown\lib\process-manager.ts:205:16)
+    at QueryProcessWrapper.release (C:\Users\uscda\Desktop\showdown-bot\pokemon-showdown\lib\process-manager.ts:191:9)
+    at QueryProcessManager.releaseCrashed (C:\Users\uscda\Desktop\showdown-bot\pokemon-showdown\lib\process-manager.ts:455:16)
+    at ChildProcess.<anonymous> (C:\Users\uscda\Desktop\showdown-bot\pokemon-showdown\lib\process-manager.ts:512:47)
+    at ChildProcess.emit (node:events:518:28)
+    at ChildProcess.emit (node:domain:489:12)
+    at finish (node:internal/child_process:933:14)
+    at processTicksAndRejections (node:internal/process/task_queues:85:11)
+
+Error: write EPIPE
+    at ChildProcess.target._send (node:internal/child_process:877:20)
+    at ChildProcess.target.send (node:internal/child_process:751:19)
+    at Worker.send (node:internal/cluster/worker:48:10)
+    at RawSubprocessStream._write (C:\Users\uscda\Desktop\showdown-bot\pokemon-showdown\lib\process-manager.ts:92:24)
+    at RawSubprocessStream.write (C:\Users\uscda\Desktop\showdown-bot\pokemon-showdown\lib\streams.ts:835:15)
+    at Object.roomBroadcast (C:\Users\uscda\Desktop\showdown-bot\pokemon-showdown\server\sockets.ts:107:23)
+    at BasicRoom.send (C:\Users\uscda\Desktop\showdown-bot\pokemon-showdown\server\rooms.ts:343:31)
+    at BasicRoom.update (C:\Users\uscda\Desktop\showdown-bot\pokemon-showdown\server\rooms.ts:436:8)
+    at GlobalRoomState.reportCrash (C:\Users\uscda\Desktop\showdown-bot\pokemon-showdown\server\rooms.ts:1855:35)
+    at Object.crashlog (C:\Users\uscda\Desktop\showdown-bot\pokemon-showdown\server\monitor.ts:90:16)
+
+Error: IPC channel is already disconnected
+    at ChildProcess.target.disconnect (node:internal/child_process:903:26)
+    at QueryProcessWrapper.destroy (C:\Users\uscda\Desktop\showdown-bot\pokemon-showdown\lib\process-manager.ts:205:16)
+    at QueryProcessWrapper.release (C:\Users\uscda\Desktop\showdown-bot\pokemon-showdown\lib\process-manager.ts:191:9)
+    at QueryProcessManager.releaseCrashed (C:\Users\uscda\Desktop\showdown-bot\pokemon-showdown\lib\process-manager.ts:455:16)
+    at ChildProcess.<anonymous> (C:\Users\uscda\Desktop\showdown-bot\pokemon-showdown\lib\process-manager.ts:512:47)
+    at ChildProcess.emit (node:events:518:28)
+    at ChildProcess.emit (node:domain:489:12)
+    at finish (node:internal/child_process:933:14)
+    at processTicksAndRejections (node:internal/process/task_queues:85:11)
+
+Error: IPC channel is already disconnected
+    at ChildProcess.target.disconnect (node:internal/child_process:903:26)
+    at QueryProcessWrapper.destroy (C:\Users\uscda\Desktop\showdown-bot\pokemon-showdown\lib\process-manager.ts:205:16)
+    at QueryProcessWrapper.release (C:\Users\uscda\Desktop\showdown-bot\pokemon-showdown\lib\process-manager.ts:191:9)
+    at QueryProcessManager.releaseCrashed (C:\Users\uscda\Desktop\showdown-bot\pokemon-showdown\lib\process-manager.ts:455:16)
+    at ChildProcess.<anonymous> (C:\Users\uscda\Desktop\showdown-bot\pokemon-showdown\lib\process-manager.ts:512:47)
+    at ChildProcess.emit (node:events:518:28)
+    at ChildProcess.emit (node:domain:489:12)
+    at finish (node:internal/child_process:933:14)
+    at processTicksAndRejections (node:internal/process/task_queues:85:11)
+
+Error: Process sockets.js 32628 crashed and had to be restarted
+    at RawProcessManager.releaseCrashed (C:\Users\uscda\Desktop\showdown-bot\pokemon-showdown\lib\process-manager.ts:471:4)
+    at Worker.<anonymous> (C:\Users\uscda\Desktop\showdown-bot\pokemon-showdown\lib\process-manager.ts:512:47)
+    at Worker.emit (node:events:518:28)
+    at Worker.emit (node:domain:489:12)
+    at ChildProcess.<anonymous> (node:internal/cluster/primary:209:12)
+    at Object.onceWrapper (node:events:632:28)
+    at ChildProcess.emit (node:events:518:28)
+    at ChildProcess.emit (node:domain:489:12)
+    at finish (node:internal/child_process:933:14)
+    at processTicksAndRejections (node:internal/process/task_queues:85:11)
+
+Error: IPC channel is already disconnected
+    at ChildProcess.target.disconnect (node:internal/child_process:903:26)
+    at StreamProcessWrapper.destroy (C:\Users\uscda\Desktop\showdown-bot\pokemon-showdown\lib\process-manager.ts:321:16)
+    at StreamProcessWrapper.release (C:\Users\uscda\Desktop\showdown-bot\pokemon-showdown\lib\process-manager.ts:307:14)
+    at StreamProcessManager.releaseCrashed (C:\Users\uscda\Desktop\showdown-bot\pokemon-showdown\lib\process-manager.ts:455:16)
+    at ChildProcess.<anonymous> (C:\Users\uscda\Desktop\showdown-bot\pokemon-showdown\lib\process-manager.ts:512:47)
+    at ChildProcess.emit (node:events:518:28)
+    at ChildProcess.emit (node:domain:489:12)
+    at finish (node:internal/child_process:933:14)
+    at processTicksAndRejections (node:internal/process/task_queues:85:11)
+
+Error: IPC channel is already disconnected
+    at ChildProcess.target.disconnect (node:internal/child_process:903:26)
+    at QueryProcessWrapper.destroy (C:\Users\uscda\Desktop\showdown-bot\pokemon-showdown\lib\process-manager.ts:205:16)
+    at QueryProcessWrapper.release (C:\Users\uscda\Desktop\showdown-bot\pokemon-showdown\lib\process-manager.ts:191:9)
+    at SQLDatabaseManager.releaseCrashed (C:\Users\uscda\Desktop\showdown-bot\pokemon-showdown\lib\process-manager.ts:455:16)
+    at ChildProcess.<anonymous> (C:\Users\uscda\Desktop\showdown-bot\pokemon-showdown\lib\process-manager.ts:512:47)
+    at ChildProcess.emit (node:events:518:28)
+    at ChildProcess.emit (node:domain:489:12)
+    at finish (node:internal/child_process:933:14)
+    at processTicksAndRejections (node:internal/process/task_queues:85:11)
+
+Error: IPC channel is already disconnected
+    at ChildProcess.target.disconnect (node:internal/child_process:903:26)
+    at QueryProcessWrapper.destroy (C:\Users\uscda\Desktop\showdown-bot\pokemon-showdown\lib\process-manager.ts:205:16)
+    at QueryProcessWrapper.release (C:\Users\uscda\Desktop\showdown-bot\pokemon-showdown\lib\process-manager.ts:191:9)
+    at QueryProcessManager.releaseCrashed (C:\Users\uscda\Desktop\showdown-bot\pokemon-showdown\lib\process-manager.ts:455:16)
+    at ChildProcess.<anonymous> (C:\Users\uscda\Desktop\showdown-bot\pokemon-showdown\lib\process-manager.ts:512:47)
+    at ChildProcess.emit (node:events:518:28)
+    at ChildProcess.emit (node:domain:489:12)
+    at finish (node:internal/child_process:933:14)
+    at processTicksAndRejections (node:internal/process/task_queues:85:11)
+
+Error: IPC channel is already disconnected
+    at ChildProcess.target.disconnect (node:internal/child_process:903:26)
+    at StreamProcessWrapper.destroy (C:\Users\uscda\Desktop\showdown-bot\pokemon-showdown\lib\process-manager.ts:321:16)
+    at StreamProcessWrapper.release (C:\Users\uscda\Desktop\showdown-bot\pokemon-showdown\lib\process-manager.ts:307:14)
+    at StreamProcessManager.releaseCrashed (C:\Users\uscda\Desktop\showdown-bot\pokemon-showdown\lib\process-manager.ts:455:16)
+    at ChildProcess.<anonymous> (C:\Users\uscda\Desktop\showdown-bot\pokemon-showdown\lib\process-manager.ts:512:47)
+    at ChildProcess.emit (node:events:518:28)
+    at ChildProcess.emit (node:domain:489:12)
+    at finish (node:internal/child_process:933:14)
+    at processTicksAndRejections (node:internal/process/task_queues:85:11)
+
+Error: IPC channel is already disconnected
+    at ChildProcess.target.disconnect (node:internal/child_process:903:26)
+    at QueryProcessWrapper.destroy (C:\Users\uscda\Desktop\showdown-bot\pokemon-showdown\lib\process-manager.ts:205:16)
+    at QueryProcessWrapper.release (C:\Users\uscda\Desktop\showdown-bot\pokemon-showdown\lib\process-manager.ts:191:9)
+    at QueryProcessManager.releaseCrashed (C:\Users\uscda\Desktop\showdown-bot\pokemon-showdown\lib\process-manager.ts:455:16)
+    at ChildProcess.<anonymous> (C:\Users\uscda\Desktop\showdown-bot\pokemon-showdown\lib\process-manager.ts:512:47)
+    at ChildProcess.emit (node:events:518:28)
+    at ChildProcess.emit (node:domain:489:12)
+    at finish (node:internal/child_process:933:14)
+    at processTicksAndRejections (node:internal/process/task_queues:85:11)
