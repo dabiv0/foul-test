@@ -1,0 +1,29 @@
+main vs main search=1000
+6-4 challenger
+
+main vs main search challenger 1000 acceptor 250
+5-5 challenger ????????
+
+main vs main search challenger 2000 acceptor 100
+5-0 challenger thank GOD
+note to self ban skarmory 1v1s
+
+main vs main search challenger 100 acceptor 100
+2-3 challenger
+
+
+timing:
+100 100
+23 turns -> 44.3s
+
+1000 1000
+27 turns -> 2min 0.56s
+
+2000 2000
+25 turns -> 3min 14.95s
+
+2000 2000
+10 games -> 15min 15.53s
+
+100 100 
+1 game of virgin stall -> over 3 minutes 
