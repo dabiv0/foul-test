@@ -1,0 +1,5 @@
+defaultenv
+envA
+envB
+*.csv
+*.txt
